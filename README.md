@@ -2,8 +2,8 @@
 
 Improving Neural Network Performance
 1) Vanishing Gradients
-    $ Activation Function
-    $ Weight Initialization
+    [$ Activation Function
+    $ Weight Initialization]
 2) Overfitting
     $ Reduce Complexity
     $ Dropout Layers
